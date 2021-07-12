@@ -2,6 +2,11 @@
  
 ## to be filled
 
+### Project on OSHWlab
+* https://oshwlab.com/lordzurp/cam87box_power-board
+* https://oshwlab.com/lordzurp/cam87box_logic-board
+* https://oshwlab.com/lordzurp/cam87box_sensor-board
+
 ### BOM
 boards can be ordered almost fully SMD assembled from JLCpcb
 there are few components to add to complete the project
