@@ -49,4 +49,6 @@ there are few components to add to complete the project
 ### Credits & usefull links
 * Original post from GRIM : http://www.astroclub.kiev.ua/forum/index.php?topic=28929.msg599742&language=english#msg599742
 * French board on Cam86 and Cam87 : https://www.webastro.net/forums/topic/148427-camera-ccd-fabriqu%C3%A9-maison-cam86/
+* ukrainian blog of the projects : http://astroccd.org/
+* french blog : https://www.diycam.fr/index.php/fr/
 
