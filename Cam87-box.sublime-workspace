@@ -1,0 +1,213 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/lordz/Documents/GitHub/Cam87box"
+	],
+	"file_history":
+	[
+		"/C/Users/lordz/Documents/GitHub/Stalline/raspi.md",
+		"/C/Users/lordz/AppData/Roaming/PrusaSlicer/printer/zUrp_3D.ini",
+		"/C/Users/lordz/AppData/Roaming/PrusaSlicer/PrusaSlicer.ini",
+		"/C/Users/lordz/Documents/GitHub/servo_DMX/servo_shield.sch.txt",
+		"/G/octopi-password.txt",
+		"/G/octopi-wpa-supplicant.txt",
+		"/C/Users/lordz/Downloads/cam87ept/cam87.ept",
+		"/E/recalbox/system/recalbox.conf",
+		"/C/Users/lordz/Documents/GitHub/Cam87/cam87-original-project/cam87/firmware/cam87.ept",
+		"/C/Users/lordz/Documents/GitHub/TeenAstro_Redux/hand controller/PickAndPlace_Wemos D1 flavour_2020-11-24_19-25-59.csv",
+		"/C/Users/lordz/Documents/GitHub/TeenAstro_Redux/hand controller/PickAndPlace_Wemos D1 flavour_2020-11-24_19-01-22.csv",
+		"/C/Users/lordz/Documents/GitHub/TeenAstro_Redux/hand controller/PickAndPlace_Wemos D1 flavour_2020-11-24_18-36-57.csv",
+		"/C/Users/lordz/Documents/GitHub/TeenAstro_Redux/hand controller/PickAndPlace_Wemos D1 flavour_2020-11-23_22-18-04.csv",
+		"/C/Users/lordz/Documents/GitHub/TeenAstro_Redux/hand controller/PickAndPlace_Wemos D1 flavour_2020-11-23_20-43-33.csv",
+		"/C/Users/lordz/Documents/GitHub/TeenAstro_Redux/SuperMini/readme.md",
+		"/C/Users/lordz/Documents/GitHub/TeenAstro_Redux/README.md",
+		"/C/Users/lordz/Documents/GitHub/TeenAstro_1.2/libraries/TeensyStep/src/Stepper.cpp",
+		"/C/Users/lordz/Documents/GitHub/TeenAstro_1.2/libraries/TeensyStep/src/Stepper.h",
+		"/C/Users/lordz/Desktop/ALS.md",
+		"/C/Users/lordz/Documents/GitHub/TeenAstro_Redux/hand controller/PickAndPlace_Wemos D1 flavour_2020-11-23_20-31-07.csv",
+		"/C/Users/lordz/Documents/GitHub/TeenAstro_Redux/SuperMini/production.md",
+		"//10.42.0.120/astroberry/als_0.7/utils/venv_setup.sh",
+		"/C/Users/lordz/Documents/GitHub/TeenAstro/TeenAstroSHC/TeenAstroSHC.ino",
+		"//10.42.0.140/share/roms/snes/gamelist.xml",
+		"/H/System Volume Information/WPSettings.dat",
+		"/C/Program Files (x86)/Steam/steamapps/common/PUBG/Engine/Config/controller.vdf",
+		"/C/Program Files (x86)/Steam/steamapps/common/PUBG/TslGame/Config/DefaultCompat.ini",
+		"/E/home/lordzurp/caliceo_aurel.key",
+		"/E/home/lordzurp/piscine_mornant.key",
+		"/I/Documents/vCards.vcf",
+		"/C/Users/lordz/Desktop/Adobe-CS6.Master.Collection/_MiB/MiB.NFO"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.stino_build_panel":
+	{
+		"height": 0.0
+	},
+	"output.stino_panel":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "Cam87-box.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 250.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
