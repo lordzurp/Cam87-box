@@ -33,15 +33,19 @@ there are few components to add to complete the project
 	* 40x40 fan
 
 ### Revision history
-#### v1.2 - official release !
+
+#### v1.2.1 (21/07/15) - quick fix on Power_board
+* delete ADC_power pads : 3.3V only
+* add FAN power selector : USB 5V or Vcc
+#### v1.2 (21/07/12) - official release !
 * some minors fix and cleaning
 * cleaned connection between logic and sensor
-#### v1.1 - first fully working board
+#### v1.1 (21/03) - first fully working board
 * temp sensor moved to sensor board
 * reworked cooling driver
 	* new mosFET
 	* bigger self
-#### v1.0 - first build - it's working !
+#### v1.0 (20/12) - first build - it's alive !
 * cooling driver don't support enough current to drive TEC
 * mistake with calibrating res for step-up
 * bad connection on EEPROM
