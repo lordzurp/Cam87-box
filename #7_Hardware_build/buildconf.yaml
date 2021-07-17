@@ -1,0 +1,32 @@
+# Recommended information
+Authors:
+    - My Name
+
+Affiliation: My Affiliation
+
+#License: CERN-OHL-1.2
+
+Email: my-email@my.domain
+
+
+#Uncomment below to add custom categories
+#CustomCategories:
+#    printedtool:
+#        Reuse: False
+#        DisplayName: Printed tools
+
+#Uncomment below to set a custom default category
+#DefaultCategory: printedtool
+
+#Uncomment below to set the title for the bill of material on a page
+#PageBOMTitle: '##For this step you will need'
+
+#Uncomment below to override the project title
+#Title: 'My project'
+
+#Uncomment below to set a custom Website root for static HTML builds
+#WebsiteRoot: '/path/'
+
+#Uncomment below to disable fussy warnings
+#Fussy: False
+
